@@ -1,22 +1,26 @@
 <br clear="both">
 
-<h2 align="center">Hey 👋  I'm Raman Vaddepalli  (RV)</h2>
+<h1 align="center">Hey 👋  I'm Raman Vaddepalli  (RV)</h1>
 
 ###
 
-<h6 align="center">Software Quality Assurance Engineer with expertise of Product Manager</h6>
+<br clear="both">
+
+<h3 align="center">Software Quality Assurance Engineer with expertise of Product Manager</h3>
 
 ###
 
-<h6 align="left">About me</h6>
+<h3 align="left">About me</h3>
 
 ###
 
-<h3 align="left">🚀 Quality isn’t just about finding bugs — it’s about **shaping products that users love**.  <br><br>👨‍💻 I’m a **Software QA Engineer** with strong **Product Management instincts**, blending the precision of testing with the vision of building.  <br>🔍 Skilled in **Automation (Selenium + Python)**, **API Testing**, and **Mobile/Web UI testing** — I don’t just test features, I test **user journeys**.  <br>🤝 Experienced in **Agile teams**, I collaborate like a **Product Manager**, ensuring releases are not only bug-free but also user-centric.  <br>🎯 My goal: To be the bridge between **engineering, product, and end-users**, driving quality that impacts business outcomes.  <br><br>✨ Fun fact: I’ve saved 30+ hours per sprint by automating regression tests — and used that time to suggest **product improvements** 😉</h3>
+<h4 align="left">🚀 Quality isn’t just about finding bugs — it’s about **shaping products that users love**.  <br><br>👨‍💻 I’m a **Software QA Engineer** with strong **Product Management instincts**, blending the precision of testing with the vision of building.  <br>🔍 Skilled in **Automation (Selenium + Python)**, **API Testing**, and **Mobile/Web UI testing** — I don’t just test features, I test **user journeys**.  <br>🤝 Experienced in **Agile teams**, I collaborate like a **Product Manager**, ensuring releases are not only bug-free but also user-centric.  <br>🎯 My goal: To be the bridge between **engineering, product, and end-users**, driving quality that impacts business outcomes.  <br><br>✨ Fun fact: I’ve saved 30+ hours per sprint by automating regression tests — and used that time to suggest **product improvements** 😉</h4>
 
 ###
 
-<h6 align="left">🧩 The Tech + Product Stack I Work With</h6>
+<br clear="both">
+
+<h3 align="left">🧩 The Tech + Product Stack I Work With</h3>
 
 ###
 
@@ -50,7 +54,7 @@
 
 <br clear="both">
 
-<h6 align="left">🚀 Connect Beyond Code</h6>
+<h3 align="left">🚀 Connect Beyond Code</h3>
 
 ###
 
