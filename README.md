@@ -12,7 +12,7 @@
 
 ###
 
-<h6 align="left">🚀 Quality isn’t just about finding bugs — it’s about **shaping products that users love**.  <br><br>👨‍💻 I’m a **Software QA Engineer** with strong **Product Management instincts**, blending the precision of testing with the vision of building.  <br>🔍 Skilled in **Automation (Selenium + Python)**, **API Testing**, and **Mobile/Web UI testing** — I don’t just test features, I test **user journeys**.  <br>🤝 Experienced in **Agile teams**, I collaborate like a **Product Manager**, ensuring releases are not only bug-free but also user-centric.  <br>🎯 My goal: To be the bridge between **engineering, product, and end-users**, driving quality that impacts business outcomes.  <br><br>✨ Fun fact: I’ve saved 30+ hours per sprint by automating regression tests — and used that time to suggest **product improvements** 😉</h6>
+<h3 align="left">🚀 Quality isn’t just about finding bugs — it’s about **shaping products that users love**.  <br><br>👨‍💻 I’m a **Software QA Engineer** with strong **Product Management instincts**, blending the precision of testing with the vision of building.  <br>🔍 Skilled in **Automation (Selenium + Python)**, **API Testing**, and **Mobile/Web UI testing** — I don’t just test features, I test **user journeys**.  <br>🤝 Experienced in **Agile teams**, I collaborate like a **Product Manager**, ensuring releases are not only bug-free but also user-centric.  <br>🎯 My goal: To be the bridge between **engineering, product, and end-users**, driving quality that impacts business outcomes.  <br><br>✨ Fun fact: I’ve saved 30+ hours per sprint by automating regression tests — and used that time to suggest **product improvements** 😉</h3>
 
 ###
 
@@ -74,24 +74,6 @@
   </a>
   <a href="vaddepalliraman@gmail.com " target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
   </a>
 </div>
 
